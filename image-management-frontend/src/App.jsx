@@ -76,7 +76,9 @@ function App() {
                         onChange={handleUploadImage}
                     />
                 </div>
-                <h2 className="text-center">List Image</h2>
+
+                <h2 className="text-center">Image Management</h2>
+
                 <div className="py-4">
                     <div className="row">
                         {images.map((image) => (

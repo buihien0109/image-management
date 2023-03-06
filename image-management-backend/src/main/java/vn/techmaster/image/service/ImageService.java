@@ -7,7 +7,6 @@ import org.springframework.web.multipart.MultipartFile;
 import vn.techmaster.image.entity.Image;
 import vn.techmaster.image.exception.NotFoundException;
 import vn.techmaster.image.repository.ImageRepository;
-import vn.techmaster.image.response.ImageResponse;
 import vn.techmaster.image.utils.FileUtils;
 
 import java.util.List;
